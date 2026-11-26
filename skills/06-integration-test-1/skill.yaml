@@ -1,0 +1,5 @@
+name: "rag_integration_test_1"
+title: "RAG 結合テスト1（IT1） (Integration Test 1)"
+description: "内部結合を確認する。取り込み→索引→検索のパイプラインが、サンプルドキュメントで一貫して動くことを検証する。"
+category: "Work and knowledge"
+include_in_prompt: false

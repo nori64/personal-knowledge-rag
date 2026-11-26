@@ -1,0 +1,5 @@
+name: "rag_eval_question_set"
+title: "RAG 評価質問セットの作成 (Evaluation Question Set)"
+description: "検索の評価に使う質問セットを作る共通手順。答えがある質問と答えがない質問を混ぜ、期待する出典を決めて書き、形式を検証できる形にする。"
+category: "Work and knowledge"
+include_in_prompt: false

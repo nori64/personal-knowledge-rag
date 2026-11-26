@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "personal-knowledge-rag"
+version = "0.1.0"
+description = "Personal knowledge RAG: local search over your own documents with citations, designed to be called by an AI agent."
+requires-python = ">=3.11"
+dependencies = ["numpy", "janome", "sentence-transformers", "pypdf", "mcp"]
+
+[project.scripts]
+ragcli = "ragcli.cli:main"
+ragcli-mcp = "ragcli.mcp_server:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

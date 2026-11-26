@@ -1,0 +1,5 @@
+name: "rag_integration_test_3"
+title: "RAG 結合テスト3（IT3） (Integration Test 3)"
+description: "総合結合として、実データ（公開しない私用文書）と評価セットでシステム全体を検証し、検索方式の調整（チューニング）の効果を数字で示す。"
+category: "Work and knowledge"
+include_in_prompt: false

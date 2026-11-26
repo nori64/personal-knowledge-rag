@@ -1,0 +1,5 @@
+name: "rag_requirements"
+title: "RAG 要件定義 (Requirements)"
+description: "解く課題と利用者を特定し、機能要件・非機能要件・対象外・受け入れ基準を確定する。ここで決めた受け入れ基準が、後のSTでの判定基準になる。"
+category: "Work and knowledge"
+include_in_prompt: false

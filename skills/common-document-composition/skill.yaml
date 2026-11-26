@@ -1,0 +1,5 @@
+name: "rag_document_composition"
+title: "RAG 文章の構成 (Document Composition)"
+description: "文書と報告の文章を構成する共通手順。冒頭に平たい要約、名前で呼ぶ、結論から書く、判断事項を分ける。承認者が要約だけで判断できる形にする。"
+category: "Work and knowledge"
+include_in_prompt: false

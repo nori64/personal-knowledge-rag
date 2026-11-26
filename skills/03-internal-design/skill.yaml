@@ -1,0 +1,5 @@
+name: "rag_internal_design"
+title: "RAG 内部設計 (Internal Design)"
+description: "外部設計を実現する内部構造を決める。モジュール分割、アルゴリズム、データ構造、DBスキーマ、例外処理の詳細を、製造とUTがそのまま進められる粒度まで書く（詳細設計に相当）。"
+category: "Work and knowledge"
+include_in_prompt: false

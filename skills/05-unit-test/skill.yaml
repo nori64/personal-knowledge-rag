@@ -1,0 +1,5 @@
+name: "rag_unit_test"
+title: "RAG 単体テスト（UT） (Unit Test)"
+description: "モジュール単体の正しさを、外部依存（埋め込みモデル、DB、LLM）をモックに替えて検証する。"
+category: "Work and knowledge"
+include_in_prompt: false

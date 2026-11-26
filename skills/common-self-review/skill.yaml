@@ -1,0 +1,5 @@
+name: "rag_self_review"
+title: "RAG 自己レビュー (Self Review)"
+description: "各工程の成果物をゲート前に作った本人（Agent）が別の目で確認する共通手順。要件との対応、抜け漏れ、前提の食い違い、読み手への分かりやすさを見て、指摘と対応を記録に残す。"
+category: "Work and knowledge"
+include_in_prompt: false

@@ -1,0 +1,14 @@
+.venv/
+.venv-docs/
+__pycache__/
+*.pyc
+*.egg-info/
+# 実物の文書・索引・設定は公開しない
+ragcli.local.toml
+data/private_docs/
+data/*_index/
+*.npy
+
+# 実データ用の質問セットは公開しない
+evaluation/real_questions.jsonl
+evaluation/質問セット叩き台_運用知識.md

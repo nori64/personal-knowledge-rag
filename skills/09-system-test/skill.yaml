@@ -1,0 +1,5 @@
+name: "rag_system_test"
+title: "RAG システムテスト（ST） (System Test)"
+description: "利用者の視点でシステム全体を判定する。要件定義の受け入れ基準に照らし、実生活のシナリオ、非機能（性能、プライバシー、使い勝手）を含めて合否を決める。"
+category: "Work and knowledge"
+include_in_prompt: false

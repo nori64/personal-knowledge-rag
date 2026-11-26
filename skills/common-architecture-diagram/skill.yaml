@@ -1,0 +1,5 @@
+name: "rag_architecture_diagram"
+title: "RAG システム構成図の作成 (Architecture Diagram)"
+description: "システム構成図を作る共通手順。登場要素と関係を箱と矢印で表し、ラベルは短く、生成後に必ず画像として目で確認して重なりを直す。"
+category: "Work and knowledge"
+include_in_prompt: false

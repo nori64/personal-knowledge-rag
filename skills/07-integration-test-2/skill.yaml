@@ -1,0 +1,5 @@
+name: "rag_integration_test_2"
+title: "RAG 結合テスト2（IT2） (Integration Test 2)"
+description: "外部結合を確認する。CLI／MCPインターフェース越しに、接続相手（ネロ）が検索を使い、出典付きで回答できることを検証する。"
+category: "Work and knowledge"
+include_in_prompt: false

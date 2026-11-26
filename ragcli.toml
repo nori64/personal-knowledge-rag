@@ -1,0 +1,13 @@
+# サンプル用の設定（架空サンプル文書を対象にする、公開用）
+document_folders = ["data/sample_docs"]
+index_dir = "data/sample_index"
+questions_file = "evaluation/sample_questions.jsonl"
+embedding_model = "intfloat/multilingual-e5-small"
+embedder = "sentence-transformers"
+tokenizer = "janome"
+chunk_max_chars = 800
+chunk_overlap_chars = 80
+rrf_k = 60
+candidate_threshold = 0.35
+embed_query_prefix = "query: "
+embed_passage_prefix = "passage: "

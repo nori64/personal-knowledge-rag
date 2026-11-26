@@ -1,0 +1,5 @@
+name: "rag_office_deliverables"
+title: "RAG Office形式の成果物作成 (Office Deliverables)"
+description: "要件定義書をWord、設計書をExcelで作る共通手順。章立てと表の移し方、図の埋め込み、描画して目で確認するところまでを含む。正本はOffice形式。"
+category: "Work and knowledge"
+include_in_prompt: false

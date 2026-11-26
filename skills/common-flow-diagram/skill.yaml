@@ -1,0 +1,5 @@
+name: "rag_flow_diagram"
+title: "RAG フロー図の作成 (Flow Diagram)"
+description: "処理フロー図を作る共通手順。縦の流れ、判断はひし形、はい／いいえの分岐、例外の注記までを型どおりに描き、生成後に目で確認する。"
+category: "Work and knowledge"
+include_in_prompt: false

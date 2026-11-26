@@ -1,0 +1,5 @@
+name: "rag_public_check"
+title: "RAG 公開前チェック (Public Release Check)"
+description: "GitHubへ公開する前に、実データや個人情報が混ざっていないかを確認する共通手順。公開範囲の定義と照らし、索引や実文書が含まれないことを数と場所で確認する。"
+category: "Work and knowledge"
+include_in_prompt: false

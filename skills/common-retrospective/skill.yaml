@@ -1,0 +1,5 @@
+name: "rag_retrospective"
+title: "RAG 振り返り (Retrospective)"
+description: "工程や結果の後に振り返る共通手順。手順の反省で終わらせず、自分の構想や評価基準が実態とどこでずれていたかを見て、次の判断と作法を変える。"
+category: "Work and knowledge"
+include_in_prompt: false

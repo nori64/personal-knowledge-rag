@@ -1,0 +1,5 @@
+name: "rag_implementation"
+title: "RAG 製造（M） (Implementation / Manufacturing)"
+description: "内部設計書どおりに実装する。設計にない判断が必要になったら、その場で決めず設計へ差し戻す。"
+category: "Work and knowledge"
+include_in_prompt: false

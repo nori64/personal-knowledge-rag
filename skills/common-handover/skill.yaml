@@ -1,0 +1,5 @@
+name: "rag_handover"
+title: "RAG 引き継ぎ (Handover)"
+description: "工程の終わりに、次工程へ渡す事項を漏れなく引き継ぐ共通手順。後へ送る事項は、送り先と理由を明記して両方の記録に残す。"
+category: "Work and knowledge"
+include_in_prompt: false

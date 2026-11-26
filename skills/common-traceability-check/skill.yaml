@@ -1,0 +1,5 @@
+name: "rag_traceability_check"
+title: "RAG 対応づけ確認 (Traceability Check)"
+description: "前工程の要件や決定が、成果物に全部対応づいているかを数えて確認する共通手順。対応表の全行を見て、漏れと勝手な追加を洗い出す。"
+category: "Work and knowledge"
+include_in_prompt: false

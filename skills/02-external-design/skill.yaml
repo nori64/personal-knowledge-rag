@@ -1,0 +1,5 @@
+name: "rag_external_design"
+title: "RAG 外部設計 (External Design)"
+description: "システムを外から見た姿を決める。全体構成、利用者や他システムとのインターフェース、データの出入り、エラー時の見え方を設計する（基本設計に相当）。"
+category: "Work and knowledge"
+include_in_prompt: false

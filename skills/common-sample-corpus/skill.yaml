@@ -1,0 +1,5 @@
+name: "rag_sample_corpus"
+title: "RAG サンプル文書の作成 (Sample Corpus)"
+description: "実データの代わりに公開・評価に使う架空サンプル文書を作る共通手順。実物の種類と構造だけを真似て、内容はすべて創作し、具体的な数字やルールを持たせる。"
+category: "Work and knowledge"
+include_in_prompt: false
